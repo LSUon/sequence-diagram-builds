@@ -1,2 +1,2 @@
 # sequence-diagram-builds
-A simple public repositiory with the build outputs from currnently private sequence diagram tool
+A simple public repository with the build outputs from currently private sequence diagram tool
